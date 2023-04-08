@@ -7,4 +7,6 @@ The .py in Basic NLP includes fundemental steps for NLP, like lowercasing words,
 
 The .py in Token Classification is an example of using existing models to do higher level analysis.
 
-I have also explored other ways of NLP analysis like sentiment analysis, topic modeling, summarizing and so on. Also exploring using popular models like GPT.
+I have also explored other ways of NLP analysis like sentiment analysis, topic modeling, summarizing and so on. The analyzing process is similar as token classification.
+
+Also exploring using popular models like GPT.
