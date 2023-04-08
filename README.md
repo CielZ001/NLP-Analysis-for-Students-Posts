@@ -1,6 +1,6 @@
 # NLP-Analysis-for-Students-Posts
 
-This project is written in Python and is still in progress.
+This project is written in Python and is still in progress. Because of privacy, the data is not provided (the data is in .txt format of different year's students' posts).
 
 The .py in Basic NLP includes fundemental steps for NLP, like lowercasing words, removing URLs, tokenize strings into individual words, stopwords and punctuation removal, stemming, lemmatizing and so forth.
 
